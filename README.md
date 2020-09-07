@@ -1,4 +1,4 @@
-# bank-loans-NYCDS
+# Bank Loan Data Analysis & Visualization
 
 ## Final Project for Data Science with Python: Analysis &amp; Visualization course at NYC Data Science Academy.
 
